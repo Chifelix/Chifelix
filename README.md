@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chifelix
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity and Swift
 - 💞️ I’m looking to collaborate on Android/ Defi projects
 - 📫 How to reach me felixpresence@gmail.com
 
